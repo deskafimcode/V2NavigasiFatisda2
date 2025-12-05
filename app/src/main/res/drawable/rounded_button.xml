@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Background transparan -->
+    <solid android:color="@android:color/transparent" />
+
+    <!-- Border warna biru UNS -->
+    <stroke
+        android:width="2dp"
+        android:color="#0073CF" />  <!-- Warna biru UNS -->
+
+    <!-- Sudut rounded -->
+    <corners android:radius="30dp" />
+</shape>
